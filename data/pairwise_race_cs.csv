@@ -1,0 +1,81 @@
+level,document_id,aggr_document_id,question_1,idx_q1,question_2,idx_q2,auth1,auth2,Turker,sum,label,agreement
+high,10466.txt,high10466.txt,"According to the passage, which of the following statements is TRUE?",1,"From the passage, we can conclude  _  .",2,1,1,2,4,1,2
+high,1104.txt,high1104.txt,Why does Hamad have his seven Mercedes-Benz500 SELs painted in different colors?,1,Which of the following might be the best title for the passage?,2,1,1,2,4,1,2
+high,1171.txt,high1171.txt,Why did Tom take all his bits of toys out of his pockets?,1,Which of the following is the most suitable title for this passage?,5,2,2,2,6,2,3
+high,11813.txt,high11813.txt,Good distribution means   _  .,1,The best title of the passage should be   _,2,1,2,1,4,1,2
+high,11977.txt,high11977.txt,Instagram probably is  _  .,0,"""The Picture House""encourages sharing photos of its food to  _  .",2,2,2,2,6,2,3
+high,1229.txt,high1229.txt,If you want to hike various trails you are advised to  _  .,1,What do we know from the passage?,2,2,2,2,6,2,3
+high,12719.txt,high12719.txt,_  was on fire.,0,How did the people who didn't jump out of the window get out of the building?,3,2,2,2,6,2,3
+high,16823.txt,high16823.txt,"If the travelers want to drive in Mexico, they should_.",2,What can we know from the passage?,3,2,2,2,6,2,3
+high,17032.txt,high17032.txt,What's the function of the paintbrush?,1,How can you read the message in invisible ink easily?,2,2,1,2,5,2,2
+high,17194.txt,high17194.txt,When did this kidnapping take place?,0,Which of the following description is not correct ?,3,2,2,2,6,2,3
+high,17226.txt,high17226.txt,The purpose of the home page of your website is   _  .,2,"The writer thinks that if you are too ambitious at the beginning,   _  .",3,2,2,1,5,2,2
+high,17911.txt,high17911.txt,What might be the author's purpose in writing the text?,0,"According to the text,in two decades,",1,2,1,1,4,1,2
+high,18225.txt,high18225.txt,The passage may be taken from  _  .,0,"According to the passage, to get a good lerning state, the most important thing is   _  .",1,1,2,1,4,1,2
+high,18269.txt,high18269.txt,What do we know from the passage?,1,Why did Yola give the author food?,2,1,2,1,4,1,2
+high,18968.txt,high18968.txt,According to the passage Botanical Garden   _,1,What should be the best title for the passage?,3,2,1,2,5,2,2
+high,20231.txt,high20231.txt,The purpose of this passage is to tell readers   _  .,0,Why are some people depressed and anxious day and night?,3,1,2,1,4,1,2
+high,20280.txt,high20280.txt,What does the writer think of picking a lunch box?,2,What can be filled in the blank in the first item?,3,2,1,2,5,2,2
+high,21306.txt,high21306.txt,"About students in ""prep school"", which of the following facts might NOTbe true?",0,What might be the author's attitude towards the prep school scheme?,4,1,1,2,4,1,2
+high,2137.txt,high2137.txt,People usually buy many gifts  _  .,1,How do people celebrate Buy Nothing Day?,2,2,2,2,6,2,3
+high,21747.txt,high21747.txt,"Following up the passage, the author will probably   _  .",1,Which of the following is the best title for the passage?,3,1,1,1,3,1,3
+high,21752.txt,high21752.txt,What can be learned from the passage?,2,What is suggested by health experts when one suffers from a sudden increase in hair loss?,3,1,1,1,3,1,3
+high,21884.txt,high21884.txt,The purpose of the school relocation is   _  .,0,Cancienne and his team made no money from the project because   _  .,1,2,2,2,6,2,3
+high,22251.txt,high22251.txt,Why does the author sometimes doubt that there is real love between her parents?,0,What made her father change so greatly?,2,2,2,1,5,2,2
+high,23837.txt,high23837.txt,Which of the following is NOT the reason for colleges to change their names?,0,"The case of name changing from Cal State, Hayward, to Cal State,East Bay indicates that the university   _  .",3,1,1,1,3,1,3
+high,23913.txt,high23913.txt,In which part of the newspaper can you find this passage most possibly?,1,The author writes the passage mainly to_.,2,2,2,2,6,2,3
+high,2972.txt,high2972.txt,Which of the following didn't Liz ask Ana to do?,1,"According to Liz, if your boss is leaving for another job, you can  _  .",3,1,2,1,4,1,2
+high,3753.txt,high3753.txt,The strawberries the children eat serve as  _  .,2,How is the text organized?,3,2,2,2,6,2,3
+high,3864.txt,high3864.txt,The number of refereeing errors in the experimental matches was   _  .,1,"The word ""officials"" (Para. 4) most probably refers to   _  .",3,1,1,2,4,1,2
+high,4104.txt,high4104.txt,Point was the purpose of Edinburgh Festival at he beginning?,0,We may learn from the text that Edinburgh Festival.,3,2,2,1,5,2,2
+high,4425.txt,high4425.txt,The first man who came up to him was   _  .,0,"In the opinion of one of the policeman who had arrested the author, the whole thing might not have occurred if   _  .",3,1,2,2,5,2,2
+high,5274.txt,high5274.txt,The Queen's broadcasts were chosen for the study mainly because  _  .,0,Which of the following is an example of a less noble accent in English?,1,2,2,1,5,2,2
+high,6034.txt,high6034.txt,Hollis refused to send Blanchard a photo because  _  .,1,What was the real Miss Hollis Maynell like?,3,2,2,1,5,2,2
+high,6129.txt,high6129.txt,"According to the passage, which of the following statements is right?",0,Which of the following can best serve as the title of the passage?,2,2,2,2,6,2,3
+high,6512.txt,high6512.txt,What can be learned from the passage?,2,Which of the following might be the best title of the passage?,3,1,1,2,4,1,2
+high,7203.txt,high7203.txt,The passage is mainly about  _  .,0,In which country do people care about where to put their hands at the dinner table?,3,2,2,1,5,2,2
+high,785.txt,high785.txt,Chow felt   _   when he learned that he had been written into middle school textbooks.,1,What can we infer from the passage?,2,2,2,2,6,2,3
+high,8631.txt,high8631.txt,"According to the passage, the behavior of others towards you can be changed by your  _  .",3,"From the passage, it can be inferred that  _  .",4,2,2,2,6,2,3
+high,8989.txt,high8989.txt,"According to Wansink, which of the following affects the amount of wine we drink:   _  .",1,What's the main idea of the passage?,2,2,2,2,6,2,3
+high,9107.txt,high9107.txt,What is the main idea of the passage?,0,Albert Einstein warned Roosevelt of   _  .,1,1,1,1,3,1,3
+high,9122.txt,high9122.txt,"According to the passage, what did nature represent to Isadora Duncan?",0,Which of the following would be the best title for the passage?,4,2,2,1,5,2,2
+middle,1.txt,middle1.txt,A discipline leader is supposed to  _  .,0,We can see from the story that some students  _  this new way of learning.,2,2,2,1,5,2,2
+middle,118.txt,middle118.txt,This story is unusual because pigeons_.,1,Which happened first?,3,2,2,1,5,2,2
+middle,1696.txt,middle1696.txt,What do you think of Ernie?,3,Why did Kyle look anxious and pained?,4,1,1,1,3,1,3
+middle,1901.txt,middle1901.txt,There are   _   classrooms in Betty's school?,0,We have   _   in the dining hall.,3,1,2,1,4,1,2
+middle,2302.txt,middle2302.txt,The pencil box is  _  .,0,The yellow ruler is  _  .,1,2,2,2,6,2,3
+middle,2744.txt,middle2744.txt,"According to the passage, over of the students in Wang Hui's class have adopted pets online this year.",0,How many examples are mentioned in the passage?,3,2,2,2,6,2,3
+middle,2790.txt,middle2790.txt,Vince's mother asked him to  _   three or four times a day.,0,Vince's hands were a little  _   than Toby's.,2,2,2,2,6,2,3
+middle,2790.txt,middle2790.txt,"When Vince saw Toby's hands, he felt    _  .",1,Vince's hands were a little  _   than Toby's.,2,2,2,1,5,2,2
+middle,2870.txt,middle2870.txt,What was the small town of Hershey like?,1,Which of the following statements is TRUE?,2,2,2,2,6,2,3
+middle,3226.txt,middle3226.txt,Mr. Smith is very glad that   _  .,3,At last the thief   _  .,4,2,2,1,5,2,2
+middle,3256.txt,middle3256.txt,Most people like walking because  _  .,1,"When you start walking, you should prepare   _  .",2,1,2,1,4,1,2
+middle,3297.txt,middle3297.txt,What did his father think of Joe?,2,"From Joe's answered, ""Oh, every year."", we can infer  that  _  .",4,2,2,2,6,2,3
+middle,3436.txt,middle3436.txt,We  _  to the park.,1,Miss Fang and Mr. Wu are  _  .,4,1,2,1,4,1,2
+middle,3521.txt,middle3521.txt,Where is Wang Gang studying?,0,Wang Gang and his friends go to the movies   _  .,4,1,2,1,4,1,2
+middle,3524.txt,middle3524.txt,Xiao Baiyou   _  .,0,"As for how to be a parent, Xiao Baiyu thinks   _  .",2,2,2,1,5,2,2
+middle,3540.txt,middle3540.txt,The girl handed the letter back to the mailman because   _   .,1,We can know from Alice's words that   _   .,2,2,2,2,6,2,3
+middle,4034.txt,middle4034.txt,When did the story happen?,0,What do you think of Tim?,2,2,2,2,6,2,3
+middle,4164.txt,middle4164.txt,Many people in England have a   _   breakfast and a   _   lunch.,0,"When they get a take-away meal, they often eat it   _  .",4,1,2,2,5,2,2
+middle,4282.txt,middle4282.txt,Members of EXO come from   _  .,0,"If you listen to TFBOY's songs, you can feel a lot of   _  .",1,1,2,2,5,2,2
+middle,4349.txt,middle4349.txt,"Which o fthe following statements is TRUE, according to the passage?",1,The purpose of education is to   _   according to Zeng Guofan.,2,1,1,1,3,1,3
+middle,4386.txt,middle4386.txt,Which of the following sentences is not right?,3,What is the best title of the passage?,4,1,1,2,4,1,2
+middle,4570.txt,middle4570.txt,In which countries can people still get money during the holidays according to the     passage?,1,In which country can people work less than 40 hours a week?,3,1,2,2,5,2,2
+middle,4890.txt,middle4890.txt,Mike is going to the zoo with  _  .,1,"Mike thinks  _  ,  so he is calling out .",3,2,2,2,6,2,3
+middle,4890.txt,middle4890.txt,Mike is going to the zoo with  _  .,1,Who is wrong ?,4,2,2,2,6,2,3
+middle,5436.txt,middle5436.txt,Many people would like to go to Kinsale because   _   .,0,The town of Kinsale is beautiful for its   _   .,2,2,2,1,5,2,2
+middle,5490.txt,middle5490.txt,"If someone says to you ""Will you come for coffee?"", you   _  .",1,Which is the best title of the article?,2,2,1,2,5,2,2
+middle,587.txt,middle587.txt,"""To face the music"" means ""to  _  "".",0,"After the exam, we'll have to ""face the music"". That's why  _  .",1,2,2,2,6,2,3
+middle,6208.txt,middle6208.txt,Which school rules have changed in some Japanese schools?,1,Which is the same rule in Japanese schools and at Morton High School?,2,2,2,2,6,2,3
+middle,6237.txt,middle6237.txt,I am a/an  _   girl.,0,I don't know   _   age.,3,2,2,2,6,2,3
+middle,6794.txt,middle6794.txt,You can find the information below on the newspaper except   _  .,3,Adult editors may invite   _   to the meeting to make the paper more popular with kids.,4,2,1,1,4,1,2
+middle,6794.txt,middle6794.txt,The newspaper should not be   _,2,Adult editors may invite   _   to the meeting to make the paper more popular with kids.,4,2,1,1,4,1,2
+middle,70.txt,middle70.txt,Why did the boy's mother never cut her hair?,2,Which is the best title for the passage?,4,2,2,2,6,2,3
+middle,71.txt,middle71.txt,Jeff's right leg was cut off  because of  the  _  .,0,"The sentence ""I ran for everybody ""means   _",2,2,2,2,6,2,3
+middle,7101.txt,middle7101.txt,Many honors were offered to Draper including   _  .,1,The passage is mainly about   _  .,4,2,1,2,5,2,2
+middle,7122.txt,middle7122.txt,"From the passage, we can infer that a slug .",1,Which of the following is NOT true according to this passage?,3,2,2,2,6,2,3
+middle,7438.txt,middle7438.txt,Mrs. Yang wants  _  for her daughter.,0,Which is NOT true?,4,2,2,2,6,2,3
+middle,7476.txt,middle7476.txt,New York City's Chinatown is   _  .,0,How many restaurants are there in New York's Chinatown?,2,1,1,1,3,1,3
+middle,8094.txt,middle8094.txt,Some junk in space is from    _    .,0,American astronaut Edward White once lost    _    in space in 1965.,1,1,2,1,4,1,2
+middle,912.txt,middle912.txt,The passage mainly talks about   _  .,0,The three students used all these things except   _   to made clothes.,2,2,1,1,4,1,2
+middle,999.txt,middle999.txt,_   likes fruit for breakfast.,3,_   like chicken.,4,2,1,2,5,2,2
